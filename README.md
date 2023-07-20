@@ -11,19 +11,19 @@ The Python Fusion Framework addresses these challenges by abstracting away the u
 
 Key Features
 
-    Unified API: Enjoy a cohesive API that wraps multiple web automation libraries, allowing you to work with different tools through a single interface.
+1) Unified API: Enjoy a cohesive API that wraps multiple web automation libraries, allowing you to work with different tools through a single interface.
 
-    Modular Architecture: The framework is organized into modular packages for each web automation library, making it easy to extend and add support for new libraries in the future.
+2) Modular Architecture: The framework is organized into modular packages for each web automation library, making it easy to extend and add support for new libraries in the future.
 
-    Easy Switching: Seamlessly switch between implementations from various libraries without modifying your codebase extensively.
+3) Easy Switching: Seamlessly switch between implementations from various libraries without modifying your codebase extensively.
 
-    Cross-Framework Development: Collaborate with developers who prefer different web automation libraries, as the framework provides a common ground for integration.
+4) Cross-Framework Development: Collaborate with developers who prefer different web automation libraries, as the framework provides a common ground for integration.
 
-    Extensive Documentation: Benefit from comprehensive documentation and usage examples that guide you through the various functionalities of the Python Fusion Framework.
+5) Extensive Documentation: Benefit from comprehensive documentation and usage examples that guide you through the various functionalities of the Python Fusion Framework.
 
 Getting Started
 
-To get started with the Python Fusion Framework, simply follow the installation instructions provided in the Getting Started section of this repository. Once set up, you'll be able to explore the different features and unleash the full potential of web automation with ease.
+Installation instructions are still forthcoming...
 
 Contributing
 
